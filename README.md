@@ -1,7 +1,5 @@
 # Text Mining Project
 
-Report: 
-
 **Project Description:**
 
 **Group members:**<br>Mariana Camarneiro
